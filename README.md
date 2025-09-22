@@ -2,7 +2,7 @@
 
 This project builds a time-series prediction model in PyTorch to forecast stock prices using LSTMs (Long Short-Term Memory networks). It demonstrates data preprocessing, model training, and evaluation within Jupyter Lab.
 
-**Workflow**
+## **Workflow**
 1. Data Collection
    - Pulls stock data (ex. Apple = ```APPL```) from Yahoo Finance via ```yfinance```
 
@@ -31,10 +31,10 @@ This project builds a time-series prediction model in PyTorch to forecast stock 
         - Predicted vs Actual stock prices
         - Prediction error over time
 
-**Results**
+## **Results**
 - Produces next-day price predictions from 30-day input windows
 - Shows how well LSTMs capture temporal patterns in stock data.
 
-**Tech Stack**
+## **Tech Stack**
 - Python (Jupyter Lab)
 - Libraries: NumPy, PyTorch, Pandas, Matplotlib, scikit-learn, yfinance
