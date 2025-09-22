@@ -4,4 +4,4 @@ This project builds a time-series prediction model in PyTorch to forecast stock 
 
 **Workflow**
 1. Data Collection
-  - 
+   - 
