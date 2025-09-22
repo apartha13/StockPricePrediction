@@ -4,4 +4,4 @@ This project builds a time-series prediction model in PyTorch to forecast stock 
 
 **Workflow**
 1. Data Collection
-   - Pulls stock data (ex. Apple = APPL) from Yahoo Finance via ```yfinance```
+   - Pulls stock data (ex. Apple = ```APPL```) from Yahoo Finance via ```yfinance```
